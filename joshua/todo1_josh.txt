@@ -1,0 +1,13 @@
+Title: Additional Customer Review Datasets (9 products)
+Author: Bing Liu
+Download: http://www.cs.uic.edu/~liub/FBS/Reviews-9-products.rar
+Format: .txt files with symbols to denote beginning of each review title + body, such as [t] for title and ## for new lines. Reviews are organized with each product's reviews in its own file.
+License: Creative Commons 4.0 International
+Noteworthy features: Reviews are tagged with the overall perceived positivity/negativity level, from -3 to +3, along with sections being marked when comparisons are made between products of the same or different brands.
+
+Data source: Princeton WordNet 3.1
+Authors: Princeton University
+Download: http://wordnetcode.princeton.edu/wn3.1.dict.tar.gz
+License: Users are free to download, distribute, and modify the database for any purpose, although the name "WordNet" is copyrighted and Princeton's name cannot be used with anything produced from the database.
+Format: Words are grouped into files based on their part of speech at the highest level, with several files for sub-divisions such as nouns describing the body, events, food, etc. Within the files many other categories are applied to words, functioning similar to a thesaurus so that words can be looked up based on similar features to other words.
+Noteworthy features: WordNet goes beyond just showing which words are similar, but categorizes how they are similar to one another.
